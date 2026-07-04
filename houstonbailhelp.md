@@ -5,10 +5,6 @@ and the greater Harris County area. It explains how bail works in Texas, what a
 bond costs, where the main jails and courts are, and the terms you will hear along
 the way.
 
-If someone you love was just arrested and you are reading this at 2 a.m., start
-with [the bail process](docs/bail-process.md) and the
-[jail & court directory](docs/jail-and-court-directory.md). Take a breath first:
-being arrested is not the same as being convicted.
 
 ## Who maintains this
 
@@ -24,7 +20,3 @@ confirm current bail amounts, facility details, and court dates with the facilit
 the court, or a licensed attorney or bondsman. If you or someone you love is in an
 emergency, call 911.
 
-## License
-
-Documentation is offered under **CC BY 4.0** (see [LICENSE.md](LICENSE.md)) — reuse
-it freely, just keep attribution.
