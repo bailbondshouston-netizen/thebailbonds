@@ -10,8 +10,7 @@ the way.
 
 This reference is maintained by the team at
 [Bail Bonds Houston](https://bailbondshouston.net/), a licensed, 24/7 bail bond
-service in Houston. Corrections and additions are welcome — see
-[CONTRIBUTING.md](CONTRIBUTING.md).
+service in Houston.
 
 ## Important
 
